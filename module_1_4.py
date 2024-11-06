@@ -10,4 +10,4 @@ home_task = 12.0
 time_use = 1.5
 name_course = 'Python'
 time_1_task = time_use / home_task
-print('Курс: ', name_course, 'всего задач: ', home_task, 'затрачено часов: ', time_use, 'среднее время выполнения', time_1_task ' часа)
+print('Курс:', name_course, 'всего задач:', home_task, 'затрачено часов:', time_use, 'среднее время выполнения', time_1_task,'часа')
