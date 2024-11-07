@@ -8,8 +8,8 @@
 # Выведите первый символ строки my_string.
 # Выведите последний символ строки my_string.
 
-my_string = str(input('Введите вашу любимую фразу: '))
-print(len(my_string))   
+my_string = input('Введите вашу любимую фразу: ')
+
 print(my_string.upper())   
 print(my_string.lower())    
 print(my_string.replace(' ', '')) 
