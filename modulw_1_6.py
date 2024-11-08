@@ -32,3 +32,5 @@ my_set = set(my_set)
 print(my_set)
 my_set.update([6,'Иван', 43.222])
 print(my_set)
+
+print(f)
