@@ -10,7 +10,8 @@
 
 my_string = input('Введите вашу любимую фразу: ')
 
-print(my_string.upper())   
+print (len(my_string))
+print(my_string.upper())   #Добавил после замечания преподователя
 print(my_string.lower())    
 print(my_string.replace(' ', '')) 
 print(my_string[0])    
