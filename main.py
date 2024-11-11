@@ -1,10 +1,10 @@
 
-# print('Hi, PyCharm')
 
-# x = 43
 
-# y = 32
+x = 43
 
-# print(x * y)
+y = 32
 
-# print("End line")
+print(x * y)
+
+print("End line")
