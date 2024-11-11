@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d10a5460-47f7-4c3a-8999-e519b80e0cf1" name="Changes" comment="add output len str">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="exercise_1_M1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vitnow&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vitnow/Education_Python.git&quot;,
+    &quot;accountId&quot;: &quot;256f4641-3997-4dac-be23-5bff87eb7e23&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2oCajUcNoOatdCThESBMARK35dX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.additional task.executor": "Run",
+    "Python.main.executor": "Debug",
+    "Python.module_1_3.executor": "Run",
+    "Python.module_1_4.executor": "Run",
+    "Python.module_1_4_1.executor": "Run",
+    "Python.module_1_5.executor": "Run",
+    "Python.module_1_5_1.executor": "Run",
+    "Python.modulw_1_6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Repoz/Education_Python_1"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d10a5460-47f7-4c3a-8999-e519b80e0cf1" name="Changes" comment="" />
+      <created>1730376146971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730376146971</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add Test.txt">
+      <option name="closed" value="true" />
+      <created>1731059529298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731059529298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Test.txt">
+      <option name="closed" value="true" />
+      <created>1731059560859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731059560859</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Make additional task">
+      <option name="closed" value="true" />
+      <created>1731064245036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731064245036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Make additional task">
+      <option name="closed" value="true" />
+      <created>1731064316585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731064316585</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Make additional task">
+      <option name="closed" value="true" />
+      <created>1731064361254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731064361254</updated>
+    </task>
+    <task id="LOCAL-00006" summary="del comments additional task">
+      <option name="closed" value="true" />
+      <created>1731064434699</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731064434699</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add len str">
+      <option name="closed" value="true" />
+      <created>1731240013674</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731240013674</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add len str">
+      <option name="closed" value="true" />
+      <created>1731240034553</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731240034553</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add output len str">
+      <option name="closed" value="true" />
+      <created>1731240142482</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731240142482</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/exercise_1_M1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Test.txt" />
+    <MESSAGE value="Make additional task.py" />
+    <MESSAGE value="Make additional task" />
+    <MESSAGE value="del comments additional task" />
+    <MESSAGE value="add len str" />
+    <MESSAGE value="add output len str" />
+    <option name="LAST_COMMIT_MESSAGE" value="add output len str" />
+  </component>
+</project>
