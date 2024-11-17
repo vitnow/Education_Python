@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d10a5460-47f7-4c3a-8999-e519b80e0cf1" name="Changes" comment="add output len str">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="d10a5460-47f7-4c3a-8999-e519b80e0cf1" name="Changes" comment="Made task Module_2_5">
+      <change afterPath="$PROJECT_DIR$/Module_2_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +57,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Module_2_2.executor": "Run",
+    "Python.Module_2_4.executor": "Run",
+    "Python.Module_2_5.executor": "Run",
+    "Python.Module_2_6.executor": "Run",
     "Python.additional task.executor": "Run",
-    "Python.main.executor": "Debug",
+    "Python.main.executor": "Run",
     "Python.module_1_3.executor": "Run",
     "Python.module_1_4.executor": "Run",
     "Python.module_1_4_1.executor": "Run",
     "Python.module_1_5.executor": "Run",
     "Python.module_1_5_1.executor": "Run",
+    "Python.module_2_3.executor": "Run",
     "Python.modulw_1_6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Module__2",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "E:/Repoz/Education_Python_1"
   },
@@ -161,7 +167,47 @@
       <option name="project" value="LOCAL" />
       <updated>1731240142482</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Make task Module_2_2">
+      <option name="closed" value="true" />
+      <created>1731329690135</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731329690135</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Make task Module_2_3">
+      <option name="closed" value="true" />
+      <created>1731333533683</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731333533684</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add examples of table and enumeration">
+      <option name="closed" value="true" />
+      <created>1731346871925</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731346871925</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Made task Module_2_4">
+      <option name="closed" value="true" />
+      <created>1731855003494</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731855003494</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Made task Module_2_5">
+      <option name="closed" value="true" />
+      <created>1731856624363</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731856624363</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +240,22 @@
     <MESSAGE value="del comments additional task" />
     <MESSAGE value="add len str" />
     <MESSAGE value="add output len str" />
-    <option name="LAST_COMMIT_MESSAGE" value="add output len str" />
+    <MESSAGE value="Make task Module_2_2" />
+    <MESSAGE value="Make task Module_2_3" />
+    <MESSAGE value="Add examples of table and enumeration" />
+    <MESSAGE value="Made task Module_2_4" />
+    <MESSAGE value="Made task Module_2_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made task Module_2_5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Module_2_2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
